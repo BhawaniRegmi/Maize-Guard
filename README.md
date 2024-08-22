@@ -1,5 +1,7 @@
-A Flutter-powered mobile application designed for detecting diseases in maize plants. This app offers a thorough solution for recognizing maize plant diseases, understanding their symptoms, and providing effective treatment options.
-![Screenshot_20240822-183235](https://github.com/user-attachments/assets/9b950566-6cab-4648-a4a8-f2d5b9a826c2)
+A Flutter-powered mobile application designed for detecting diseases in maize plants.
+This app offers a thorough solution for recognizing maize plant diseases, understanding their symptoms, and providing effective treatment options.
+
+![Screenshot_20240822-205546](https://github.com/user-attachments/assets/60ba287c-a840-4dfd-b756-1e6666699d51)
 ![Screenshot_20240822-183247](https://github.com/user-attachments/assets/b666516a-0497-4f90-b74f-dd35d03bee01)
 ![Screenshot_20240822-201603](https://github.com/user-attachments/assets/ead7c6eb-7b5e-47a4-be0e-23ea8307477b)
 ![Screenshot_20240822-201625](https://github.com/user-attachments/assets/bd2f98bf-519d-44c0-b6b8-7be8a985b8eb)
